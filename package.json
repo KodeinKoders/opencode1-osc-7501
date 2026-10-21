@@ -4,7 +4,8 @@
   "description": "OpenCode 1 plugin that reports session status through OSC 7501.",
   "type": "module",
   "exports": {
-    ".": "./dist/plugin.js"
+    ".": "./dist/plugin.js",
+    "./server": "./dist/plugin.js"
   },
   "files": [
     "dist",
