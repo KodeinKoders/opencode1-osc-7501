@@ -1,6 +1,6 @@
 {
   "name": "@kodein/opencode1-osc-7501",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OpenCode 1 plugin that reports session status through OSC 7501.",
   "type": "module",
   "exports": {
